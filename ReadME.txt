@@ -1,3 +1,7 @@
+// DEPENDENCIES
+http://www.codeproject.com/script/articles/download.aspx?file=/KB/database/CsvReader/CsvReader_src.zip&rp=http://www.codeproject.com/Articles/9258/A-Fast-CSV-Reader
+http://www.c-sharpcorner.com/UploadFile/mgold/ScrollableMessageBox07292007223713PM/download/ScrollableMessageBox.zip
+
 //START
 - Start a new VS2003 Project
 - Import the demo Code.
