@@ -5,7 +5,7 @@ using System.ComponentModel;
 using System.Windows.Forms;
 using System.Data;
 
-namespace CS_AddinFramework
+namespace PolarionCsvEaSync
 {
 	/// <summary>
 	/// Summary description for Form1.

@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_AddinFramework", "CS_AddinFramework.csproj", "{BA41F544-D6A8-48C0-9E83-D3C6543A3D04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolarionCsvEaSync", "PolarionCsvEaSync.csproj", "{BA41F544-D6A8-48C0-9E83-D3C6543A3D04}"
 	ProjectSection(ProjectDependencies) = postProject
 		{42D2E12A-82AC-4A2E-8326-37A57A14302D} = {42D2E12A-82AC-4A2E-8326-37A57A14302D}
 		{E3B83D68-C90C-4874-8E5F-DEC8D038BC7C} = {E3B83D68-C90C-4874-8E5F-DEC8D038BC7C}

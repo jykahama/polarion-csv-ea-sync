@@ -5,7 +5,7 @@ using LumenWorks.Framework.IO.Csv;
 using System.Collections.Generic;
 using MicrogoldWindows;
 
-namespace CS_AddinFramework
+namespace PolarionCsvEaSync
 {
 	public class Main
 	{
